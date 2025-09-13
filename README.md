@@ -16,3 +16,5 @@ Linux: http://0xax.gitbooks.io/linux-insides/content/index.html
 C++: https://www.learncpp.com/
 
 Regex: https://github.com/ziishaned/learn-regex and/or https://regexlearn.com/
+
+Rust: https://doc.rust-lang.org/stable/book/
